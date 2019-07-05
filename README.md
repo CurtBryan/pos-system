@@ -13,4 +13,4 @@
 9.
 10. Some other metaphor
 11.
-12. useless data
+12. useful data
