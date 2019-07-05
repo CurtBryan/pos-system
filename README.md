@@ -2,13 +2,15 @@
 
 ## numbers
 
-1. 2. 3. 4.
-
+1. I am the best
+2.
+3.
+4.
 5. WOW
 6.
-7.
-8.
+7. Swans a' Swimmin
+8. Legend of Zelda: Origin of Git
 9.
-10.
+10. Some other metaphor
 11.
 12. useless data
